@@ -4,7 +4,6 @@ refreshFrequency: 10000 # ms
 
 render: (output) ->
   """
-  <link rel="stylesheet" href="./assets/font-awesome/css/font-awesome.min.css" />
   <div class="time"
     <span></span>
     <span class="icon"></span>
